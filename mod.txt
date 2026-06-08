@@ -1,0 +1,11 @@
+{
+	"name": "Broker Image in Lobby",
+	"author": "kvadrat",
+	"version": "1.3",
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menu/contractboxgui",
+			"script_path": "imageInLobby.lua"
+		}
+	]
+}
